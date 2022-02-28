@@ -1,0 +1,36 @@
+
+  .ref{
+      text-align: center;
+      background-color:maroon ;
+      
+  }
+  body{
+    text-align: center;
+    background-image: url("maison.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .top{
+    font-size: large;
+  }
+  .menu{
+    font-size: large;
+  }
+  .tox{
+    font-style: italic;
+  }
+ .bts{
+   width: 150px;
+   height: 20px;
+   background-color:rgb(88, 139, 233) ;
+   border-radius: 15px;
+   margin-bottom: 10px;
+   
+ }
+ .moi{
+   margin-bottom: 10px;
+ }
+ .XXX{
+   color: white;
+ }
